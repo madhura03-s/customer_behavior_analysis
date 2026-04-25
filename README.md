@@ -36,3 +36,4 @@ Identified customer spending patterns across categories
 Analyzed relationship between discounts and purchases
 Segmented customers based on age groups
 Standardized purchase frequency for better analysis
+<img width="919" height="494" alt="Screenshot 2026-04-25 173823" src="https://github.com/user-attachments/assets/bacb8b2a-ac35-406e-bab7-266b923306b6" />
